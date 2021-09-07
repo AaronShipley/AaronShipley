@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AaronShipley
 - 👀 I’m interested in anything outdoors, conservation, and learning new things and expanding my knowledge
-- 🌱 I’m currently learning software engineering at SNHU. I have previous BS in Physics and BA in MEdia Productions
-- 💞️ I’m looking to collaborate on anyhting that will help me better understand software development and furhter my education in CS
+- 🌱 I’m currently learning software engineering at SNHU. I have previous BS in Physics and BA in Media Productions
+- 💞️ I’m looking to collaborate on anything that will help me better understand software development and further my education in CS
 - 📫 How to reach me Aaron535@hotmail.com
 
 <!---
